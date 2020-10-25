@@ -27,7 +27,7 @@ if(d>10)
 }
 if(d<10)
 {
-  wall.shapeColor=color("blue");
+  wall.shapeColor=("blue");
 }
 
   
